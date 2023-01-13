@@ -1,0 +1,1 @@
+import{_ as e,o as a,c,a as r}from"./app.10cf573a.js";const w=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"webpack5.md","lastUpdated":1669886906000}'),d={name:"webpack5.md"},i=r("",10),s=[i];function o(p,t,l,n,h,b){return a(),c("div",null,s)}const _=e(d,[["render",o]]);export{w as __pageData,_ as default};
